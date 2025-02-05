@@ -10,7 +10,9 @@ While messing with a computer vision concept I got jumpscared by a Sierpiński t
 
 ## To Build
 
-Bootstrap the no-build build system.
+This application uses the [no-build](https://github.com/tsoding/nob.h).
+
+To start, bootstrap the no-build build system.
 ```
 cc -o nob nob.c
 ```
@@ -25,3 +27,4 @@ You should now in the window see 3 seperate instances of the recording.
 ## To See The The Triangle
 
 Simply fullscreen the window in the window that is being captured and the triangle should appear.
+
