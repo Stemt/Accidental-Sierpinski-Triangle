@@ -10,7 +10,7 @@ While messing with a computer vision concept I got jumpscared by a Sierpiński t
 
 ## To Build
 
-This application uses the [no-build](https://github.com/tsoding/nob.h).
+This application uses the [no-build](https://github.com/tsoding/nob.h) build system.
 
 To start, bootstrap the no-build build system.
 ```
