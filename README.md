@@ -26,5 +26,5 @@ You should now in the window see 3 seperate instances of the recording.
 
 ## To See The The Triangle
 
-Simply fullscreen the window in the window that is being captured and the triangle should appear.
+Simply fullscreen the window in on the monitor that is being captured and the triangle should appear.
 
