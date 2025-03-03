@@ -1,6 +1,6 @@
 # Accidental-Sierpinski-Triangle
 
-![img](./sierpinski.gif)
+![./sierpinski.gif](https://github.com/Stemt/Accidental-Sierpinski-Triangle/blob/main/sierpinski.gif?raw=true)
 
 While messing with a computer vision concept I got jumpscared by a Sierpiński triangle. This is an archive for the code that generated it.
 
